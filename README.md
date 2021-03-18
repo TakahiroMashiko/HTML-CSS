@@ -1,4 +1,4 @@
-<!-- 日本語 Japanese -->
+# 日本語 Japanese
 
 # DMM WEBCAMP コンテンツ【HTML/CSS を学ぼう】
 
@@ -8,7 +8,7 @@ DMM WEBCAMP の学習コンテンツ HTML/CSS を学ぼうの研修課題です�
 
 html/css ファイルのため、PC のブラウザで実行できます。
 
-<!-- 英語 English -->
+# 英語 English
 
 # DMM WEBCAMP Content [Learn HTML / CSS]
 
