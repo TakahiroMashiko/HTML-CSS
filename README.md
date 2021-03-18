@@ -10,7 +10,7 @@ html/css ファイルのため、PC のブラウザで実行できます。
 
 # 英語 English
 
-# DMM WEBCAMP Content [Learn HTML / CSS]
+# DMM WEBCAMP Content 【Learn HTML / CSS】
 
 DMM WEBCAMP learning content This is a training task for learning HTML / CSS.
 
