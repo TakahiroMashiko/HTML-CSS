@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.mv1 {
+  width: auto;
+  height: 200px;
+  background-image: url(img/box1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.mv2 {
+  width: auto;
+  height: 200px;
+  background-image: url(img/box2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.mv3 {
+  width: auto;
+  height: 200px;
+  background-image: url(img/box3.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.mv4 {
+  width: auto;
+  height: 200px;
+  background-image: url(img/box4.jpg);
+  background-position: center;
+  background-size: cover;
+}

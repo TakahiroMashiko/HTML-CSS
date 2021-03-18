@@ -1,0 +1,14 @@
+.box1 {
+  width: 300px;
+  height: 300px;
+  /* 背景を緑色にする */
+  background-color: #008000;
+  margin: 30px;
+}
+.box2 {
+  width: 100px;
+  height: 100px;
+  /* 背景を青色にする */
+  background-color: blue;
+  border: 5px solid yellow;
+}
